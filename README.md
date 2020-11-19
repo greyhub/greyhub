@@ -20,4 +20,4 @@ Hi, I'm [Luong](http://greyhub.github.io/) a CS student at HUST from
 
 <img align='right' src='https://raw.githubusercontent.com/greyhub/greyhub/main/assets/facebook.png' width='150"'>
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=greyhub&show_icons=true&title_color=056c99&icon_color=056c99&text_color=3d3d3d&bg_color=b5b5b5&count_private=true))](https://github.com/greyhub)
+[![My github stats](https://github-readme-stats.vercel.app/api?username=greyhub&show_icons=true&title_color=056c99&icon_color=056c99&text_color=3d3d3d&bg_color=ebebeb&count_private=false)](https://github.com/greyhub)
