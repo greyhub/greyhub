@@ -1,9 +1,4 @@
 <!---
-Please consider starring the repo if you find this useful in any manner
-or use it. It helps me a lot.
--->
-
-<!---
 <a href="http://greyhub.github.io/"><img src="..." width="900"></a>
 -->
 
