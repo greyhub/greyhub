@@ -20,11 +20,8 @@ I'm interested in AI/Machine Learning + Data Science + Web.
 
 > *Could I chmod 644 you?*
 
-<img align='right' src='https://raw.githubusercontent.com/greyhub/greyhub/main/assets/my_QR.png' width='10%'>
-
-<!-- [![My github stats](https://github-readme-stats.vercel.app/api?username=greyhub&show_icons=true&title_color=056c99&icon_color=056c99&text_color=3d3d3d&bg_color=ebebeb&count_private=false)](https://github.com/greyhub) -->
-
 <img align='left' src='https://github-readme-stats.vercel.app/api?username=greyhub&show_icons=true&title_color=056c99&icon_color=056c99&text_color=3d3d3d&bg_color=ebebeb&count_private=false' width='50%'>
 
 <img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=greyhub&langs_count=10&theme=tokyonight&layout=compact' width='32%'>
 
+<img src='https://raw.githubusercontent.com/greyhub/greyhub/main/assets/web.png' width='10%'>
