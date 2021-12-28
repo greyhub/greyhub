@@ -12,7 +12,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-open-blue)](https://www.linkedin.com/in/nguyen-luong-3940831b6/)
 [![Website](https://img.shields.io/badge/Website-fun-lightgrey)](https://greyhub.github.io/)
 
-[![Donate](https://img.shields.io/badge/Techcombank-19033998122011-pink)]()
+[![Donate](https://img.shields.io/badge/Donate-Techcombank-pink)](19033998122011)
 
 
 Hi, I'm [Luong](http://greyhub.github.io/) a Computer Science student at HUST (Ha Noi University of Science and Technology) from 
