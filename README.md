@@ -5,7 +5,7 @@
 <img align='right' src='https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e479uyhcidh0ezeu83zrfdxko34orwgyie2yvt8ppxc&rid=giphy.gif' width='20%"'>
 
 [![GitHub followers](https://img.shields.io/github/followers/greyhub?label=Follow&style=social)](https://github.com/greyhub) 
-[![Youtube followers](https://img.shields.io/youtube/views/vNIX31QtQOw?style=social)](https://www.youtube.com/channel/UCqGLrmJUDAbTUgst6ABtv-A?view_as=subscriber)
+[![Youtube followers](https://img.shields.io/youtube/channel/views/UCqGLrmJUDAbTUgst6ABtv-A)](https://www.youtube.com/channel/UCqGLrmJUDAbTUgst6ABtv-A?view_as=subscriber)
 
 [![Facebook followers](https://img.shields.io/badge/Facebook-99-blue)](https://www.facebook.com/god.nvl) 
 [![Kaggle followers](https://img.shields.io/badge/Kaggle-1%25-blue)](https://www.kaggle.com/greyng) 
