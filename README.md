@@ -2,7 +2,7 @@
 <a href="http://greyhub.github.io/"><img src="..." width="900"></a>
 -->
 
-<img align='right' src='https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e479uyhcidh0ezeu83zrfdxko34orwgyie2yvt8ppxc&rid=giphy.gif' width='20%"'>
+<img align='right' src='https://media3.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e479uyhcidh0ezeu83zrfdxko34orwgyie2yvt8ppxc&rid=giphy.gif' width='20%'>
 
 [![GitHub followers](https://img.shields.io/github/followers/greyhub?label=Follow&style=social)](https://github.com/greyhub) 
 [![Youtube followers](https://img.shields.io/youtube/channel/views/UCqGLrmJUDAbTUgst6ABtv-A)](https://www.youtube.com/channel/UCqGLrmJUDAbTUgst6ABtv-A?view_as=subscriber)
