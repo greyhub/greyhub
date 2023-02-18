@@ -7,10 +7,10 @@
 [![GitHub followers](https://img.shields.io/github/followers/greyhub?label=Follow&style=social)](https://github.com/greyhub) 
 [![Youtube followers](https://img.shields.io/youtube/channel/views/UCqGLrmJUDAbTUgst6ABtv-A)](https://www.youtube.com/channel/UCqGLrmJUDAbTUgst6ABtv-A?view_as=subscriber)
 
-[![Facebook followers](https://img.shields.io/badge/Facebook-99-blue)](https://www.facebook.com/god.nvl) 
+[![Facebook followers](https://img.shields.io/badge/Facebook-99-blue)](https://www.facebook.com/luongnv.grey/) 
 [![Kaggle followers](https://img.shields.io/badge/Kaggle-1%25-blue)](https://www.kaggle.com/greyng) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-open-blue)](https://www.linkedin.com/in/nguyen-luong-3940831b6/)
-[![Website](https://img.shields.io/badge/Website-fun-lightgrey)](https://greyhub.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-open-blue)](https://www.linkedin.com/in/greyng/)
+[![Website](https://img.shields.io/badge/Website-fun-lightgrey)](https://www.greyng.com/)
 
 [![Donate](https://img.shields.io/badge/Donate-Techcombank-pink)](19033998122011)
 
