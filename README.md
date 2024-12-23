@@ -25,7 +25,7 @@ I'm interested in AI/Machine Learning + Data Science + Web.
 
 |Teacher/Mentor|Research Collaborator|Research Intern|
 |---------|---------|------|
-|<a href="https://mindx.edu.vn/"><img src="https://mindx.edu.vn/logo.svg" height="50px"></a>|<a href="https://vinbigdata.com/"><img src="assets/VinBigData_logo.png" height="50px"></a>|<a href="http://mso.soict.hust.edu.vn/"><img src="https://github.com/greyhub/greyhub/blob/main/assets/mso.png" height="50px"></a>|
+|<a href="https://mindx.edu.vn/"><img src="assets/mindx_logo.png" height="50px"></a>|<a href="https://vinbigdata.com/"><img src="assets/VinBigData_logo.png" height="50px"></a>|<a href="http://mso.soict.hust.edu.vn/"><img src="https://github.com/greyhub/greyhub/blob/main/assets/mso.png" height="50px"></a>|
 
 > *Could I chmod 644 you?*
 
